@@ -1,1 +1,1 @@
-# Git Assignment - <annaz820>
+# Git Assignment - annaz820
